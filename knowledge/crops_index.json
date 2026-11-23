@@ -1,0 +1,126 @@
+{
+ "note": "Each crop needs its own sourced knowledge pack and its own validated image model before it is enabled in the app.",
+ "how_to_add_a_crop": [
+  "Copy pack_template.json to crops/<crop>.json",
+  "Fill problems from the state agricultural university package of practices (for example TNAU Agritech) and ICAR; record URL and date for every item",
+  "Check each chemical against the current CIB&RC registration for that crop",
+  "Get a named expert to sign off, then set status to reviewed",
+  "Collect and validate images, train/evaluate the model, then enable the crop in the app"
+ ],
+ "crops": [
+  {
+   "crop": "tomato",
+   "knowledge_pack": "partial_draft",
+   "model": "not_trained",
+   "enabled_in_app": true
+  },
+  {
+   "crop": "brinjal",
+   "knowledge_pack": "not_started",
+   "model": "not_trained",
+   "enabled_in_app": false
+  },
+  {
+   "crop": "chilli",
+   "knowledge_pack": "not_started",
+   "model": "not_trained",
+   "enabled_in_app": false
+  },
+  {
+   "crop": "okra",
+   "knowledge_pack": "not_started",
+   "model": "not_trained",
+   "enabled_in_app": false
+  },
+  {
+   "crop": "potato",
+   "knowledge_pack": "not_started",
+   "model": "not_trained",
+   "enabled_in_app": false
+  },
+  {
+   "crop": "onion",
+   "knowledge_pack": "not_started",
+   "model": "not_trained",
+   "enabled_in_app": false
+  },
+  {
+   "crop": "cabbage",
+   "knowledge_pack": "not_started",
+   "model": "not_trained",
+   "enabled_in_app": false
+  },
+  {
+   "crop": "cauliflower",
+   "knowledge_pack": "not_started",
+   "model": "not_trained",
+   "enabled_in_app": false
+  },
+  {
+   "crop": "cucumber",
+   "knowledge_pack": "not_started",
+   "model": "not_trained",
+   "enabled_in_app": false
+  },
+  {
+   "crop": "bitter gourd",
+   "knowledge_pack": "not_started",
+   "model": "not_trained",
+   "enabled_in_app": false
+  },
+  {
+   "crop": "banana",
+   "knowledge_pack": "not_started",
+   "model": "not_trained",
+   "enabled_in_app": false
+  },
+  {
+   "crop": "mango",
+   "knowledge_pack": "not_started",
+   "model": "not_trained",
+   "enabled_in_app": false
+  },
+  {
+   "crop": "grapes",
+   "knowledge_pack": "not_started",
+   "model": "not_trained",
+   "enabled_in_app": false
+  },
+  {
+   "crop": "papaya",
+   "knowledge_pack": "not_started",
+   "model": "not_trained",
+   "enabled_in_app": false
+  },
+  {
+   "crop": "coconut",
+   "knowledge_pack": "not_started",
+   "model": "not_trained",
+   "enabled_in_app": false
+  },
+  {
+   "crop": "guava",
+   "knowledge_pack": "not_started",
+   "model": "not_trained",
+   "enabled_in_app": false
+  },
+  {
+   "crop": "pomegranate",
+   "knowledge_pack": "not_started",
+   "model": "not_trained",
+   "enabled_in_app": false
+  },
+  {
+   "crop": "citrus",
+   "knowledge_pack": "not_started",
+   "model": "not_trained",
+   "enabled_in_app": false
+  },
+  {
+   "crop": "apple",
+   "knowledge_pack": "not_started",
+   "model": "not_trained",
+   "enabled_in_app": false
+  }
+ ]
+}

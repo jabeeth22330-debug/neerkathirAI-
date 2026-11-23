@@ -1,0 +1,49 @@
+{
+ "id": "",
+ "type": "disease|pest|nutrient_disorder|agronomy",
+ "crop": "",
+ "name": {
+  "en": "",
+  "ta": ""
+ },
+ "symptoms": {
+  "en": "",
+  "ta": ""
+ },
+ "lookalikes": [],
+ "actions": {
+  "en": [],
+  "ta": []
+ },
+ "refer_when": {
+  "en": "",
+  "ta": ""
+ },
+ "region_notes": "",
+ "sources": [
+  {
+   "name": "",
+   "url": "",
+   "updated": ""
+  }
+ ],
+ "status": "draft_pending_expert_review",
+ "products": [
+  {
+   "kind": "biological|chemical|fertiliser",
+   "name": "",
+   "note": {
+    "en": "",
+    "ta": ""
+   },
+   "source": {
+    "name": "",
+    "url": "",
+    "updated": ""
+   },
+   "dose_in_source": "",
+   "show_dose": false,
+   "status": "source_listed_needs_registration_check"
+  }
+ ]
+}

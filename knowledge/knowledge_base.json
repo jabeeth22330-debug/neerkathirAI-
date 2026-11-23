@@ -1,0 +1,645 @@
+{
+ "version": "0.2",
+ "note": "DRAFT. Every entry must be reviewed by an agricultural expert and given sources before real use.",
+ "languages": [
+  "en",
+  "ta"
+ ],
+ "entries": [
+  {
+   "id": "early_blight",
+   "type": "disease",
+   "crop": "tomato",
+   "name": {
+    "en": "Early blight",
+    "ta": "முன் கருகல் நோய்"
+   },
+   "symptoms": {
+    "en": "Brown spots with a ring pattern, usually on older leaves.",
+    "ta": "பழைய இலைகளில் வளைய வடிவ பழுப்பு புள்ளிகள்."
+   },
+   "lookalikes": [],
+   "actions": {
+    "en": [
+     "Remove and bag badly affected lower leaves; do not compost them.",
+     "Water at the base, avoid wetting leaves; add mulch.",
+     "Rotate with a non-solanaceous crop next season.",
+     "Ask the agricultural officer which approved product and dose suits your area."
+    ],
+    "ta": [
+     "மிகவும் பாதித்த கீழ் இலைகளை அகற்றி பையில் போடவும்; உரமாக்க வேண்டாம்.",
+     "இலைகளை நனைக்காமல் வேரில் நீர் பாய்ச்சவும்; மூடாக்கு இடவும்.",
+     "அடுத்த பருவத்தில் தக்காளி குடும்பம் அல்லாத பயிரை சுழற்சி செய்யவும்.",
+     "உங்கள் பகுதிக்கு ஏற்ற அனுமதிக்கப்பட்ட மருந்து மற்றும் அளவை வேளாண் அலுவலரிடம் கேட்கவும்."
+    ]
+   },
+   "refer_when": {
+    "en": "Symptoms spread fast, many plants are affected, or you are not sure.",
+    "ta": "அறிகுறிகள் வேகமாக பரவினால், பல செடிகள் பாதித்தால், அல்லது உறுதியில்லையெனில்."
+   },
+   "region_notes": "TODO_EXPERT",
+   "sources": [
+    {
+     "name": "TNAU Agritech Portal",
+     "url": "https://agritech.tnau.ac.in/crop_protection/tomato_diseases_2.html",
+     "updated": "Jun 2023"
+    }
+   ],
+   "status": "draft_pending_expert_review",
+   "products": [
+    {
+     "kind": "biological",
+     "name": "Trichoderma asperellum",
+     "note": {
+      "en": "Seed treatment for the next crop, listed with early blight management.",
+      "ta": "அடுத்த பயிருக்கான விதை நேர்த்தி; முன் கருகல் மேலாண்மையில் பட்டியலிடப்பட்டுள்ளது."
+     },
+     "source": {
+      "name": "TNAU Agritech Portal",
+      "url": "https://agritech.tnau.ac.in/crop_protection/tomato_diseases_2.html",
+      "updated": "Jun 2023"
+     },
+     "dose_in_source": "4 g/kg seeds",
+     "show_dose": false,
+     "status": "source_listed"
+    }
+   ]
+  },
+  {
+   "id": "late_blight",
+   "type": "disease",
+   "crop": "tomato",
+   "name": {
+    "en": "Late blight",
+    "ta": "பின் கருகல் நோய்"
+   },
+   "symptoms": {
+    "en": "Dark water-soaked patches; white mould under leaves in cool, wet weather.",
+    "ta": "நீர் ஊறிய கருமை திட்டுகள்; குளிர் ஈரமான வானிலையில் இலை அடியில் வெள்ளை பூஞ்சை."
+   },
+   "lookalikes": [],
+   "actions": {
+    "en": [
+     "This can spread very fast in wet weather: contact an agricultural officer today.",
+     "Remove and bag affected plants/leaves carefully; avoid moving through wet crop.",
+     "Avoid overhead irrigation.",
+     "Do not use any chemical without expert-confirmed product and dose."
+    ],
+    "ta": [
+     "ஈரமான வானிலையில் மிக வேகமாக பரவும்: இன்றே வேளாண் அலுவலரைத் தொடர்பு கொள்ளவும்.",
+     "பாதித்த செடி/இலைகளை கவனமாக அகற்றி பையில் போடவும்; ஈரமான பயிரில் நடமாடுவதை தவிர்க்கவும்.",
+     "மேலிருந்து நீர் தெளிப்பதை தவிர்க்கவும்.",
+     "நிபுணர் உறுதி செய்யாமல் எந்த ரசாயனத்தையும் பயன்படுத்த வேண்டாம்."
+    ]
+   },
+   "refer_when": {
+    "en": "Symptoms spread fast, many plants are affected, or you are not sure.",
+    "ta": "அறிகுறிகள் வேகமாக பரவினால், பல செடிகள் பாதித்தால், அல்லது உறுதியில்லையெனில்."
+   },
+   "region_notes": "TODO_EXPERT",
+   "sources": [],
+   "status": "draft_pending_expert_review",
+   "products": []
+  },
+  {
+   "id": "septoria_leaf_spot",
+   "type": "disease",
+   "crop": "tomato",
+   "name": {
+    "en": "Septoria leaf spot",
+    "ta": "செப்டோரியா இலைப்புள்ளி"
+   },
+   "symptoms": {
+    "en": "Many small round spots with grey centres and dark edges.",
+    "ta": "சாம்பல் மையமும் கருமை விளிம்பும் உள்ள பல சிறிய வட்டப் புள்ளிகள்."
+   },
+   "lookalikes": [],
+   "actions": {
+    "en": [
+     "Remove spotted lower leaves and keep foliage dry.",
+     "Space plants for air flow; clear weeds and plant debris.",
+     "Monitor weekly and record photos here.",
+     "Confirm with an agricultural officer before any spray."
+    ],
+    "ta": [
+     "புள்ளி உள்ள கீழ் இலைகளை அகற்றி இலைகளை உலர்வாக வைக்கவும்.",
+     "காற்றோட்டத்திற்கு இடைவெளி விடவும்; களை மற்றும் கழிவுகளை அகற்றவும்.",
+     "வாரந்தோறும் கண்காணித்து இங்கே புகைப்படம் பதிவு செய்யவும்.",
+     "எந்த தெளிப்புக்கும் முன் வேளாண் அலுவலரிடம் உறுதி செய்யவும்."
+    ]
+   },
+   "refer_when": {
+    "en": "Symptoms spread fast, many plants are affected, or you are not sure.",
+    "ta": "அறிகுறிகள் வேகமாக பரவினால், பல செடிகள் பாதித்தால், அல்லது உறுதியில்லையெனில்."
+   },
+   "region_notes": "TODO_EXPERT",
+   "sources": [],
+   "status": "draft_pending_expert_review",
+   "products": []
+  },
+  {
+   "id": "leaf_curl_virus",
+   "type": "disease",
+   "crop": "tomato",
+   "name": {
+    "en": "Leaf curl virus",
+    "ta": "இலை சுருட்டை வைரஸ்"
+   },
+   "symptoms": {
+    "en": "Leaves curl upward, turn yellow and stay small.",
+    "ta": "இலைகள் மேல்நோக்கி சுருண்டு, மஞ்சளாகி, சிறியதாக இருக்கும்."
+   },
+   "lookalikes": [],
+   "actions": {
+    "en": [
+     "Remove and destroy infected young plants early.",
+     "Whiteflies spread it: use yellow sticky traps and keep field weed-free.",
+     "Use virus-tolerant seedlings and nets in nurseries next time.",
+     "Ask the agricultural officer about whitefly control options.",
+     "Raise seedlings under a net or other protected cover.",
+     "Grow sorghum, maize or bajra as a border (barrier) crop.",
+     "Remove the weed Abutilon indicum, which hosts whiteflies."
+    ],
+    "ta": [
+     "பாதித்த இளம் செடிகளை முன்கூட்டியே அகற்றி அழிக்கவும்.",
+     "வெள்ளை ஈ பரப்புகிறது: மஞ்சள் ஒட்டுப் பொறிகள் வைத்து களை இல்லாமல் வைக்கவும்.",
+     "அடுத்த முறை வைரஸ் தாங்கும் நாற்றுகள், நாற்றங்காலில் வலை பயன்படுத்தவும்.",
+     "வெள்ளை ஈ கட்டுப்பாடு பற்றி வேளாண் அலுவலரிடம் கேட்கவும்.",
+     "நாற்றுகளை வலை அல்லது பாதுகாப்பான மூடிய இடத்தில் வளர்க்கவும்.",
+     "எல்லைப் பயிராக சோளம், மக்காச்சோளம் அல்லது கம்பு வளர்க்கவும்.",
+     "வெள்ளை ஈக்களுக்கு தங்குமிடமான துத்தி (Abutilon indicum) களையை அகற்றவும்."
+    ]
+   },
+   "refer_when": {
+    "en": "Symptoms spread fast, many plants are affected, or you are not sure.",
+    "ta": "அறிகுறிகள் வேகமாக பரவினால், பல செடிகள் பாதித்தால், அல்லது உறுதியில்லையெனில்."
+   },
+   "region_notes": "TODO_EXPERT",
+   "sources": [
+    {
+     "name": "TNAU Agritech Portal",
+     "url": "https://agritech.tnau.ac.in/crop_protection/tomato_diseases_6.html",
+     "updated": "Jun 2023"
+    }
+   ],
+   "status": "draft_pending_expert_review",
+   "products": [
+    {
+     "kind": "chemical",
+     "name": "Dimethoate",
+     "note": {
+      "en": "Listed for controlling the whitefly that spreads this virus. It does not cure infected plants.",
+      "ta": "இந்த வைரஸை பரப்பும் வெள்ளை ஈ கட்டுப்பாட்டுக்காக பட்டியலிடப்பட்டது. பாதித்த செடிகளை குணப்படுத்தாது."
+     },
+     "source": {
+      "name": "TNAU Agritech Portal",
+      "url": "https://agritech.tnau.ac.in/crop_protection/tomato_diseases_6.html",
+      "updated": "Jun 2023"
+     },
+     "dose_in_source": "Dimethoate 30 EC @ 200 ml/ac",
+     "show_dose": false,
+     "status": "source_listed_needs_registration_check"
+    },
+    {
+     "kind": "chemical",
+     "name": "Methyl demeton",
+     "note": {
+      "en": "Listed for controlling the whitefly that spreads this virus. It does not cure infected plants.",
+      "ta": "இந்த வைரஸை பரப்பும் வெள்ளை ஈ கட்டுப்பாட்டுக்காக பட்டியலிடப்பட்டது. பாதித்த செடிகளை குணப்படுத்தாது."
+     },
+     "source": {
+      "name": "TNAU Agritech Portal",
+      "url": "https://agritech.tnau.ac.in/crop_protection/tomato_diseases_6.html",
+      "updated": "Jun 2023"
+     },
+     "dose_in_source": "Methyl demeton 25 EC @ 200 ml/ac",
+     "show_dose": false,
+     "status": "source_listed_needs_registration_check"
+    },
+    {
+     "kind": "chemical",
+     "name": "Thiamethoxam",
+     "note": {
+      "en": "Listed for controlling the whitefly that spreads this virus. It does not cure infected plants.",
+      "ta": "இந்த வைரஸை பரப்பும் வெள்ளை ஈ கட்டுப்பாட்டுக்காக பட்டியலிடப்பட்டது. பாதித்த செடிகளை குணப்படுத்தாது."
+     },
+     "source": {
+      "name": "TNAU Agritech Portal",
+      "url": "https://agritech.tnau.ac.in/crop_protection/tomato_diseases_6.html",
+      "updated": "Jun 2023"
+     },
+     "dose_in_source": "Thiamethoxam 25 WG @ 200 g/ac",
+     "show_dose": false,
+     "status": "source_listed_needs_registration_check"
+    },
+    {
+     "kind": "chemical",
+     "name": "Imidacloprid",
+     "note": {
+      "en": "Listed for controlling the whitefly that spreads this virus. It does not cure infected plants.",
+      "ta": "இந்த வைரஸை பரப்பும் வெள்ளை ஈ கட்டுப்பாட்டுக்காக பட்டியலிடப்பட்டது. பாதித்த செடிகளை குணப்படுத்தாது."
+     },
+     "source": {
+      "name": "TNAU Agritech Portal",
+      "url": "https://agritech.tnau.ac.in/crop_protection/tomato_diseases_6.html",
+      "updated": "Jun 2023"
+     },
+     "dose_in_source": "Imidacloprid 17.8 SL @ 200 ml/ac",
+     "show_dose": false,
+     "status": "source_listed_needs_registration_check"
+    }
+   ]
+  },
+  {
+   "id": "whitefly",
+   "type": "pest",
+   "crop": "tomato",
+   "name": {
+    "en": "Whitefly",
+    "ta": "வெள்ளை ஈ"
+   },
+   "symptoms": {
+    "en": "Tiny white flies under leaves; sticky leaves; yellowing; can spread leaf curl virus.",
+    "ta": "இலைகளின் அடியில் சிறிய வெள்ளை ஈக்கள்; இலைகள் ஒட்டும்; மஞ்சளாதல்; இலை சுருட்டை வைரஸை பரப்பலாம்."
+   },
+   "lookalikes": [],
+   "actions": {
+    "en": [
+     "Hang yellow sticky traps near the plants.",
+     "Remove and destroy heavily infested leaves and weeds nearby.",
+     "Check the underside of leaves every week.",
+     "Ask the agricultural officer which approved control suits your crop stage.",
+     "Use nitrogen fertiliser and irrigation carefully; too much favours whiteflies.",
+     "Uproot and destroy plants showing leaf curl."
+    ],
+    "ta": [
+     "செடிகளுக்கு அருகே மஞ்சள் ஒட்டுப் பொறிகளை தொங்கவிடவும்.",
+     "அதிகம் தாக்கிய இலைகளையும் அருகிலுள்ள களைகளையும் அகற்றி அழிக்கவும்.",
+     "வாரந்தோறும் இலைகளின் அடிப்பகுதியை பரிசோதிக்கவும்.",
+     "உங்கள் பயிர் நிலைக்கு ஏற்ற அனுமதிக்கப்பட்ட கட்டுப்பாட்டு முறையை வேளாண் அலுவலரிடம் கேட்கவும்.",
+     "நைட்ரஜன் உரம் மற்றும் நீரை கவனமாக பயன்படுத்தவும்; அதிகமானால் வெள்ளை ஈ பெருகும்.",
+     "இலை சுருட்டை காட்டும் செடிகளை பிடுங்கி அழிக்கவும்."
+    ]
+   },
+   "refer_when": {
+    "en": "Symptoms spread fast, many plants are affected, or you are not sure.",
+    "ta": "அறிகுறிகள் வேகமாக பரவினால், பல செடிகள் பாதித்தால், அல்லது உறுதியில்லையெனில்."
+   },
+   "region_notes": "TODO_EXPERT",
+   "sources": [
+    {
+     "name": "TNAU Agritech Portal",
+     "url": "https://agritech.tnau.ac.in/crop_protection/tomato/tomato_4.html",
+     "updated": "Jun 2023"
+    }
+   ],
+   "status": "draft_pending_expert_review",
+   "products": [
+    {
+     "kind": "chemical",
+     "name": "Carbofuran",
+     "note": {
+      "en": "Listed for whitefly control on tomato. Rotate products only as your officer advises.",
+      "ta": "தக்காளியில் வெள்ளை ஈ கட்டுப்பாட்டுக்காக பட்டியலிடப்பட்டது. அதிகாரி சொல்வதுபடி மட்டும் மாற்றி பயன்படுத்தவும்."
+     },
+     "source": {
+      "name": "TNAU Agritech Portal",
+      "url": "https://agritech.tnau.ac.in/crop_protection/tomato/tomato_4.html",
+      "updated": "Jun 2023"
+     },
+     "dose_in_source": "Carbofuran 3 CG 40 kg/ha",
+     "show_dose": false,
+     "status": "source_listed_needs_registration_check"
+    },
+    {
+     "kind": "chemical",
+     "name": "Dimethoate",
+     "note": {
+      "en": "Listed for whitefly control on tomato. Rotate products only as your officer advises.",
+      "ta": "தக்காளியில் வெள்ளை ஈ கட்டுப்பாட்டுக்காக பட்டியலிடப்பட்டது. அதிகாரி சொல்வதுபடி மட்டும் மாற்றி பயன்படுத்தவும்."
+     },
+     "source": {
+      "name": "TNAU Agritech Portal",
+      "url": "https://agritech.tnau.ac.in/crop_protection/tomato/tomato_4.html",
+      "updated": "Jun 2023"
+     },
+     "dose_in_source": "Dimethoate 30% EC 1.0 ml/lit.",
+     "show_dose": false,
+     "status": "source_listed_needs_registration_check"
+    },
+    {
+     "kind": "chemical",
+     "name": "Malathion",
+     "note": {
+      "en": "Listed for whitefly control on tomato. Rotate products only as your officer advises.",
+      "ta": "தக்காளியில் வெள்ளை ஈ கட்டுப்பாட்டுக்காக பட்டியலிடப்பட்டது. அதிகாரி சொல்வதுபடி மட்டும் மாற்றி பயன்படுத்தவும்."
+     },
+     "source": {
+      "name": "TNAU Agritech Portal",
+      "url": "https://agritech.tnau.ac.in/crop_protection/tomato/tomato_4.html",
+      "updated": "Jun 2023"
+     },
+     "dose_in_source": "Malathion 50% EC 1.5 ml/lit.",
+     "show_dose": false,
+     "status": "source_listed_needs_registration_check"
+    },
+    {
+     "kind": "chemical",
+     "name": "Methyl demeton",
+     "note": {
+      "en": "Listed for whitefly control on tomato. Rotate products only as your officer advises.",
+      "ta": "தக்காளியில் வெள்ளை ஈ கட்டுப்பாட்டுக்காக பட்டியலிடப்பட்டது. அதிகாரி சொல்வதுபடி மட்டும் மாற்றி பயன்படுத்தவும்."
+     },
+     "source": {
+      "name": "TNAU Agritech Portal",
+      "url": "https://agritech.tnau.ac.in/crop_protection/tomato/tomato_4.html",
+      "updated": "Jun 2023"
+     },
+     "dose_in_source": "Methyl demeton 25 EC 1.0 ml/lit.",
+     "show_dose": false,
+     "status": "source_listed_needs_registration_check"
+    },
+    {
+     "kind": "chemical",
+     "name": "Cyantraniliprole",
+     "note": {
+      "en": "Listed for whitefly control on tomato. Rotate products only as your officer advises.",
+      "ta": "தக்காளியில் வெள்ளை ஈ கட்டுப்பாட்டுக்காக பட்டியலிடப்பட்டது. அதிகாரி சொல்வதுபடி மட்டும் மாற்றி பயன்படுத்தவும்."
+     },
+     "source": {
+      "name": "TNAU Agritech Portal",
+      "url": "https://agritech.tnau.ac.in/crop_protection/tomato/tomato_4.html",
+      "updated": "Jun 2023"
+     },
+     "dose_in_source": "Cyantraniliprole 10.26 OD 1.8 ml/lit.",
+     "show_dose": false,
+     "status": "source_listed_needs_registration_check"
+    },
+    {
+     "kind": "chemical",
+     "name": "Imidacloprid",
+     "note": {
+      "en": "Listed for whitefly control on tomato. Rotate products only as your officer advises.",
+      "ta": "தக்காளியில் வெள்ளை ஈ கட்டுப்பாட்டுக்காக பட்டியலிடப்பட்டது. அதிகாரி சொல்வதுபடி மட்டும் மாற்றி பயன்படுத்தவும்."
+     },
+     "source": {
+      "name": "TNAU Agritech Portal",
+      "url": "https://agritech.tnau.ac.in/crop_protection/tomato/tomato_4.html",
+      "updated": "Jun 2023"
+     },
+     "dose_in_source": "Imidacloprid 17.8 SL 3.0 ml/10 lit.",
+     "show_dose": false,
+     "status": "source_listed_needs_registration_check"
+    },
+    {
+     "kind": "chemical",
+     "name": "Spiromesifen",
+     "note": {
+      "en": "Listed for whitefly control on tomato. Rotate products only as your officer advises.",
+      "ta": "தக்காளியில் வெள்ளை ஈ கட்டுப்பாட்டுக்காக பட்டியலிடப்பட்டது. அதிகாரி சொல்வதுபடி மட்டும் மாற்றி பயன்படுத்தவும்."
+     },
+     "source": {
+      "name": "TNAU Agritech Portal",
+      "url": "https://agritech.tnau.ac.in/crop_protection/tomato/tomato_4.html",
+      "updated": "Jun 2023"
+     },
+     "dose_in_source": "Spiromesifen 22.9 SC 1.25 ml/lit.",
+     "show_dose": false,
+     "status": "source_listed_needs_registration_check"
+    }
+   ]
+  },
+  {
+   "id": "fruit_borer",
+   "type": "pest",
+   "crop": "tomato",
+   "name": {
+    "en": "Fruit borer",
+    "ta": "காய்ப்புழு"
+   },
+   "symptoms": {
+    "en": "Round holes in fruits with caterpillars inside; damaged flowers.",
+    "ta": "காய்களில் வட்ட துளைகள், உள்ளே புழுக்கள்; சேதமடைந்த பூக்கள்."
+   },
+   "lookalikes": [],
+   "actions": {
+    "en": [
+     "Collect and destroy damaged fruits and caterpillars by hand.",
+     "Use pheromone traps to monitor moths.",
+     "Do not leave damaged fruits in the field.",
+     "Ask the agricultural officer for approved control options before spraying."
+    ],
+    "ta": [
+     "சேதமடைந்த காய்களையும் புழுக்களையும் கையால் சேகரித்து அழிக்கவும்.",
+     "அந்துப்பூச்சிகளை கண்காணிக்க இனக்கவர்ச்சிப் பொறிகளை பயன்படுத்தவும்.",
+     "சேதமடைந்த காய்களை வயலில் விடாதீர்கள்.",
+     "தெளிப்பதற்கு முன் அனுமதிக்கப்பட்ட கட்டுப்பாட்டு முறைகளை வேளாண் அலுவலரிடம் கேட்கவும்."
+    ]
+   },
+   "refer_when": {
+    "en": "Symptoms spread fast, many plants are affected, or you are not sure.",
+    "ta": "அறிகுறிகள் வேகமாக பரவினால், பல செடிகள் பாதித்தால், அல்லது உறுதியில்லையெனில்."
+   },
+   "region_notes": "TODO_EXPERT",
+   "sources": [],
+   "status": "draft_pending_expert_review",
+   "products": []
+  },
+  {
+   "id": "red_spider_mite",
+   "type": "pest",
+   "crop": "tomato",
+   "name": {
+    "en": "Red spider mite",
+    "ta": "சிவப்புச் சிலந்திப் பூச்சி"
+   },
+   "symptoms": {
+    "en": "Tiny speckles and bronzing on leaves, fine webbing; worse in hot, dry weather.",
+    "ta": "இலைகளில் சிறிய புள்ளிகள், வெண்கல நிறம், மெல்லிய வலை; வெப்பமான வறண்ட வானிலையில் அதிகம்."
+   },
+   "lookalikes": [],
+   "actions": {
+    "en": [
+     "Check the underside of leaves with a magnifier.",
+     "Keep irrigation regular and avoid dusty, water-stressed plants.",
+     "Remove badly affected leaves.",
+     "Ask the agricultural officer for approved mite control."
+    ],
+    "ta": [
+     "பூதக்கண்ணாடியால் இலையின் அடிப்பகுதியை பரிசோதிக்கவும்.",
+     "நீர்ப்பாசனத்தை சீராக வைக்கவும்; தூசி படிந்த, நீர் பற்றாக்குறை உள்ள செடிகளை தவிர்க்கவும்.",
+     "மிகவும் பாதித்த இலைகளை அகற்றவும்.",
+     "அனுமதிக்கப்பட்ட சிலந்திப்பூச்சி கட்டுப்பாட்டை வேளாண் அலுவலரிடம் கேட்கவும்."
+    ]
+   },
+   "refer_when": {
+    "en": "Symptoms spread fast, many plants are affected, or you are not sure.",
+    "ta": "அறிகுறிகள் வேகமாக பரவினால், பல செடிகள் பாதித்தால், அல்லது உறுதியில்லையெனில்."
+   },
+   "region_notes": "TODO_EXPERT",
+   "sources": [],
+   "status": "draft_pending_expert_review",
+   "products": []
+  },
+  {
+   "id": "irrigation_advice",
+   "type": "agronomy",
+   "crop": "tomato",
+   "name": {
+    "en": "Irrigation advice",
+    "ta": "நீர்ப்பாசன ஆலோசனை"
+   },
+   "symptoms": {
+    "en": "Applies to all growth stages.",
+    "ta": "அனைத்து வளர்ச்சி நிலைகளுக்கும் பொருந்தும்."
+   },
+   "lookalikes": [],
+   "actions": {
+    "en": [
+     "Water at the base of the plant, not on the leaves.",
+     "Keep soil moisture even; avoid long dry spells followed by heavy watering.",
+     "Mulch to hold moisture.",
+     "Reduce watering in cool, rainy weather to lower disease risk."
+    ],
+    "ta": [
+     "இலைகளில் அல்ல, செடியின் அடிப்பகுதியில் நீர் பாய்ச்சவும்.",
+     "மண் ஈரத்தை சீராக வைக்கவும்; நீண்ட வறட்சிக்குப் பின் அதிக நீர் பாய்ச்சுவதை தவிர்க்கவும்.",
+     "ஈரப்பதத்தை தக்கவைக்க மூடாக்கு இடவும்.",
+     "குளிர்ந்த மழைக்காலத்தில் நோய் அபாயத்தை குறைக்க நீரை குறைக்கவும்."
+    ]
+   },
+   "refer_when": {
+    "en": "Symptoms spread fast, many plants are affected, or you are not sure.",
+    "ta": "அறிகுறிகள் வேகமாக பரவினால், பல செடிகள் பாதித்தால், அல்லது உறுதியில்லையெனில்."
+   },
+   "region_notes": "TODO_EXPERT",
+   "sources": [],
+   "status": "draft_pending_expert_review",
+   "products": []
+  },
+  {
+   "id": "fertiliser_advice",
+   "type": "agronomy",
+   "crop": "tomato",
+   "name": {
+    "en": "Fertiliser advice",
+    "ta": "உர ஆலோசனை"
+   },
+   "symptoms": {
+    "en": "Applies to all growth stages.",
+    "ta": "அனைத்து வளர்ச்சி நிலைகளுக்கும் பொருந்தும்."
+   },
+   "lookalikes": [],
+   "actions": {
+    "en": [
+     "Do a soil test before deciding what to apply.",
+     "Use balanced nutrition; too much nitrogen gives soft leafy growth that attracts pests.",
+     "Follow the local agriculture department's recommendation for your soil and growth stage.",
+     "Yellow leaves are not always disease: check nutrients and water too."
+    ],
+    "ta": [
+     "எதை இடுவது என்று முடிவு செய்யும் முன் மண் பரிசோதனை செய்யவும்.",
+     "சமநிலையான ஊட்டச்சத்து அளிக்கவும்; அதிக நைட்ரஜன் மென்மையான இலை வளர்ச்சியை தந்து பூச்சிகளை ஈர்க்கும்.",
+     "உங்கள் மண் மற்றும் வளர்ச்சி நிலைக்கு உள்ளூர் வேளாண் துறை பரிந்துரையை பின்பற்றவும்.",
+     "இலை மஞ்சளாவது எப்போதும் நோய் அல்ல: ஊட்டச்சத்து மற்றும் நீரையும் சரிபார்க்கவும்."
+    ]
+   },
+   "refer_when": {
+    "en": "Symptoms spread fast, many plants are affected, or you are not sure.",
+    "ta": "அறிகுறிகள் வேகமாக பரவினால், பல செடிகள் பாதித்தால், அல்லது உறுதியில்லையெனில்."
+   },
+   "region_notes": "TODO_EXPERT",
+   "sources": [],
+   "status": "draft_pending_expert_review",
+   "products": []
+  },
+  {
+   "id": "blossom_end_rot",
+   "type": "nutrient_disorder",
+   "crop": "tomato",
+   "name": {
+    "en": "Blossom end rot (calcium problem)",
+    "ta": "பூ முனை அழுகல் (கால்சியம் குறைபாடு)"
+   },
+   "symptoms": {
+    "en": "A sunken, dark, leathery patch at the blossom end of young fruits. It does not spread from plant to plant.",
+    "ta": "இளம் காய்களின் பூ முனையில் மூழ்கிய, கருமையான, தோல் போன்ற திட்டு. செடியிலிருந்து செடிக்கு பரவாது."
+   },
+   "lookalikes": [
+    "Sunscald",
+    "Fruit rot diseases"
+   ],
+   "actions": {
+    "en": [
+     "Keep soil moisture even; avoid long dry spells followed by heavy watering.",
+     "Mulch the soil.",
+     "Do a soil test and fertilise as it recommends; too much nitrogen reduces calcium uptake.",
+     "Fertiliser alone will not fix it if watering is uneven."
+    ],
+    "ta": [
+     "மண் ஈரத்தை சீராக வைக்கவும்; நீண்ட வறட்சிக்குப் பின் அதிக நீர் பாய்ச்சுவதை தவிர்க்கவும்.",
+     "மண்ணில் மூடாக்கு இடவும்.",
+     "மண் பரிசோதனை செய்து அதன் பரிந்துரைப்படி உரமிடவும்; அதிக நைட்ரஜன் கால்சியம் உறிஞ்சுதலை குறைக்கும்.",
+     "நீர்ப்பாசனம் சீராக இல்லாவிட்டால் உரம் மட்டும் தீர்வாகாது."
+    ]
+   },
+   "refer_when": {
+    "en": "Many fruits are affected, or you are not sure it is a calcium problem.",
+    "ta": "பல காய்கள் பாதித்தால், அல்லது கால்சியம் பிரச்சினை என்று உறுதியில்லையெனில்."
+   },
+   "region_notes": "TODO_EXPERT",
+   "sources": [
+    {
+     "name": "TNAU Agritech Portal",
+     "url": "https://agritech.tnau.ac.in/horticulture/plant_nutri/tomato_cal.html",
+     "updated": "Jan 2023"
+    },
+    {
+     "name": "UConn Home & Garden Education Center (water and nutrient management)",
+     "url": "https://homegarden.cahnr.uconn.edu/?p=17959",
+     "updated": "n/a"
+    }
+   ],
+   "status": "draft_pending_expert_review",
+   "products": [
+    {
+     "kind": "fertiliser",
+     "name": "Calcium sulphate (soil application)",
+     "note": {
+      "en": "Corrects a calcium shortage in the soil. Use only after a soil test or officer advice.",
+      "ta": "மண்ணில் கால்சியம் பற்றாக்குறையை சரிசெய்யும். மண் பரிசோதனை அல்லது அதிகாரி ஆலோசனைக்குப் பிறகே பயன்படுத்தவும்."
+     },
+     "source": {
+      "name": "TNAU Agritech Portal",
+      "url": "https://agritech.tnau.ac.in/horticulture/plant_nutri/tomato_cal.html",
+      "updated": "Jan 2023"
+     },
+     "dose_in_source": "CaSO4 1 to 2 kg/acre",
+     "show_dose": false,
+     "status": "source_listed_needs_registration_check"
+    },
+    {
+     "kind": "fertiliser",
+     "name": "Calcium chloride (foliar spray)",
+     "note": {
+      "en": "A short-term emergency measure; does not replace even watering.",
+      "ta": "குறுகிய கால அவசர நடவடிக்கை; சீரான நீர்ப்பாசனத்திற்கு மாற்று அல்ல."
+     },
+     "source": {
+      "name": "TNAU Agritech Portal",
+      "url": "https://agritech.tnau.ac.in/horticulture/plant_nutri/tomato_cal.html",
+      "updated": "Jan 2023"
+     },
+     "dose_in_source": "CaCl2 0.5% thrice at fortnightly interval",
+     "show_dose": false,
+     "status": "source_listed_needs_registration_check"
+    }
+   ]
+  }
+ ],
+ "policy": {
+  "farmer_facing": "Product names only. Doses are never shown in the app; the farmer is told to follow the registered label and the agricultural officer.",
+  "reason": "Dose formats differ even between TNAU pages, products may be restricted or re-registered, and wrong doses harm people, crops and water.",
+  "required_check": "Before release, every chemical must be checked against the current CIB&RC registration and the state agriculture department advisory, and reviewed by a named expert."
+ }
+}

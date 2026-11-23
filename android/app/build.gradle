@@ -1,0 +1,14 @@
+plugins { id 'com.android.application'; id 'org.jetbrains.kotlin.android' }
+android {
+  namespace 'com.neerkathir.ai'; compileSdk 34
+  defaultConfig { applicationId "com.neerkathir.ai"; minSdk 26; targetSdk 34; versionCode 1; versionName "0.1"
+    ndk { abiFilters "arm64-v8a" } }
+  compileOptions { sourceCompatibility JavaVersion.VERSION_17; targetCompatibility JavaVersion.VERSION_17 }
+  kotlinOptions { jvmTarget = "17" }
+  aaptOptions { noCompress "pte", "model" }
+}
+dependencies {
+  implementation 'androidx.appcompat:appcompat:1.7.0'
+  // ExecuTorch Android runtime (check latest artifact/version in the ExecuTorch docs):
+  implementation 'org.pytorch:executorch-android:0.6.0'  // verify latest version in ExecuTorch docs
+}

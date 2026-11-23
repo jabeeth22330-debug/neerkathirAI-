@@ -1,0 +1,14 @@
+*.pte
+*.pt
+*.pth
+*.onnx
+tokenizer.model
+kaggle.json
+data/
+real_test/
+.gradle/
+build/
+local.properties
+*.apk
+*.aab
+.idea/
